@@ -7,7 +7,7 @@ In order to use it in standalone code snippets or small projects, I make it a py
 ## install
 
 ```
-pip install cython_bbox
+pip install git+https://github.com/mtaimooradil/cython_bbox
 ```
 
 ## usage
